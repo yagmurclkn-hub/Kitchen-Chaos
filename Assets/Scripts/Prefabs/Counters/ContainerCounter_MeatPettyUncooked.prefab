@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8387557492646462972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 188465747485463690, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_Name
+      value: ContainerCounter_MeatPettyUncooked
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.0038382818
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.9999926
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -180.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 5641944522227325643, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6247771995548267718, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: counterTopPoint
+      value: 
+      objectReference: {fileID: 7351635951257514880}
+    - target: {fileID: 6247771995548267718, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: kitchenObjectSO
+      value: 
+      objectReference: {fileID: 11400000, guid: 5b5b9bf3a30a710419e1f9f82772d9ed, type: 2}
+    - target: {fileID: 6496057761930701692, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: aa1bacc24dde76e47b2ec0dd4e82385b, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+--- !u!4 &7351635951257514880 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1324294598522713724, guid: c457b7414c2483a40a2d66a3e03a6201, type: 3}
+  m_PrefabInstance: {fileID: 8387557492646462972}
+  m_PrefabAsset: {fileID: 0}
